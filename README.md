@@ -6,5 +6,5 @@
 https://github.com/sofiaaair/ohtu-tehtavat
 
 * Viikon 1 & 2 laskaritehtävät, jotka toteutin Pythonilla:
- 
-https://github.com/sofiaaair/ohtu-viikko1-python
+
+https://github.com/sofiaaair/ohtu-2021-viikko1-python
